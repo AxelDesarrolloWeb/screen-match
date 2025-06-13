@@ -1,0 +1,50 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 60
+  },
+  {
+    "Nombre": "Encantada",
+    "FechaDeLanzamiento": 2008,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 13
+  },
+  {
+    "Nombre": "The Avengers",
+    "FechaDeLanzamiento": 2012,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 143
+  },
+  {
+    "Nombre": "Terminator",
+    "FechaDeLanzamiento": 1991,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 39
+  },
+  {
+    "Nombre": "Minions",
+    "FechaDeLanzamiento": 2015,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 91
+  },
+  {
+    "Nombre": "En busca de la felicidad",
+    "FechaDeLanzamiento": 1998,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 43
+  }
+]
